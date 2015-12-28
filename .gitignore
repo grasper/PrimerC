@@ -2,6 +2,7 @@
 tags
 *~
 *.swp
+
 # Object files
 *.o
 *.ko
