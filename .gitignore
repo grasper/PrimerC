@@ -2,6 +2,8 @@
 tags
 *~
 *.swp
+*.pyc
+
 # Object files
 *.o
 *.ko
